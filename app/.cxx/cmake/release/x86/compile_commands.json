@@ -1,0 +1,55 @@
+[
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\main.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\main.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/main.cpp"
+},
+
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\asset.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\asset.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/asset.cpp"
+},
+
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\shader.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\shader.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/shader.cpp"
+},
+
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\program.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\program.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/program.cpp"
+},
+
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\scene.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\scene.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/scene.cpp"
+},
+
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\camera.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\camera.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/camera.cpp"
+},
+
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\material.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\material.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/material.cpp"
+},
+
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\texture.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\texture.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/texture.cpp"
+},
+
+{
+  "directory": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\media\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/media/AppData/Local/Android/Sdk/ndk/19.2.5345600/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++14 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\object.cpp.o -c E:\\MediaETC\\TA\\2024CG\\HW2\\code\\Homework2_project\\Homework2\\app\\src\\main\\cpp\\src\\object.cpp",
+  "file": "E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/src/main/cpp/src/object.cpp"
+}
+]

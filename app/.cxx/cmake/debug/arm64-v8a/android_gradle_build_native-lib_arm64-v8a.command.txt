@@ -1,0 +1,7 @@
+Executable : C:\Users\ZEROLIKE\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ZEROLIKE\Desktop\dev\Homework2 (2)\Homework2\app\.cxx\cmake\debug\arm64-v8a
+native-lib
+jvmArgs : 
+

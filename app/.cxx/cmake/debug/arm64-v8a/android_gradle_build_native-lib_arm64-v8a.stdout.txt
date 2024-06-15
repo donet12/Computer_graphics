@@ -1,0 +1,16 @@
+ninja: Entering directory `C:\Users\ZEROLIKE\Desktop\dev\Homework2 (2)\Homework2\app\.cxx\cmake\debug\arm64-v8a'
+[1/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/asset.cpp.o
+[2/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/shader.cpp.o
+[3/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/program.cpp.o
+[4/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/main.cpp.o
+[5/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/material.cpp.o
+[6/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/camera.cpp.o
+../../../../src/main/cpp/src/camera.cpp:19:60: warning: if statement has empty body [-Wempty-body]
+    if (glGetUniformLocation(program->get(), "eyePos") < 0);
+                                                           ^
+../../../../src/main/cpp/src/camera.cpp:19:60: note: put the semicolon on a separate line to silence this warning
+1 warning generated.
+[7/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/texture.cpp.o
+[8/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/object.cpp.o
+[9/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/src/scene.cpp.o
+[10/10] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libnative-lib.so

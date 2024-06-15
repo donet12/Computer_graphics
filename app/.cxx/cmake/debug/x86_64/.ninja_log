@@ -1,0 +1,12 @@
+# ninja log v5
+5	1130	738734082	CMakeFiles/native-lib.dir/src/main/cpp/src/shader.cpp.o	359052c8f28e828f
+8	1137	738734082	CMakeFiles/native-lib.dir/src/main/cpp/src/asset.cpp.o	efd4e1a5d5d6136f
+14	1141	738734082	CMakeFiles/native-lib.dir/src/main/cpp/src/program.cpp.o	81860580f7a0420b
+16	1166	738734082	CMakeFiles/native-lib.dir/src/main/cpp/src/material.cpp.o	37389b8f81bc4b9e
+1	1167	738734082	CMakeFiles/native-lib.dir/src/main/cpp/src/main.cpp.o	9aebac37e996b4a4
+21	1175	738734082	CMakeFiles/native-lib.dir/src/main/cpp/src/camera.cpp.o	8ae2c38570fbb93a
+31	1176	738734082	CMakeFiles/native-lib.dir/src/main/cpp/src/texture.cpp.o	d3942ce654287506
+26	1283	738734082	CMakeFiles/native-lib.dir/src/main/cpp/src/object.cpp.o	3899e8013ced6edc
+11	3727	738734085	CMakeFiles/native-lib.dir/src/main/cpp/src/scene.cpp.o	a78915a044e2de66
+3727	3903	738734085	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	faa5e795531f9e53
+0	10	0	clean	8a8b2efa3db01870

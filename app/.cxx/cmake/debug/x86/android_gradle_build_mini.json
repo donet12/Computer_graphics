@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\leejuhyeon\\Desktop\\Homework2\\app\\CMakeLists.txt",
+    "C:\\Users\\leejuhyeon\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\leejuhyeon\\AppData\\Local\\Android\\Sdk\\ndk\\19.2.5345600\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\leejuhyeon\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\leejuhyeon\\Desktop\\Homework2\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\leejuhyeon\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\leejuhyeon\\Desktop\\Homework2\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\leejuhyeon\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\leejuhyeon\\Desktop\\Homework2\\app\\.cxx\\cmake\\debug\\x86\" native-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\leejuhyeon\\Desktop\\Homework2\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

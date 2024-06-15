@@ -1,0 +1,3 @@
+E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86/CMakeFiles/native-lib.dir
+E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+E:/MediaETC/TA/2024CG/HW2/code/Homework2_project/Homework2/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
